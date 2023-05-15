@@ -5,22 +5,6 @@ Free web tools for digital marketing and affiliates
 
 ## 
 
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-
-## 
 
 
 
@@ -28,7 +12,6 @@ Free web tools for digital marketing and affiliates
 | --- | --- |
 | Optimize WebSite | https://www.poplab-tools.eu/ | 
 | Generate Content | https://www.marketing-gpt.org/ |
-
 | Generate Images  |  https://images-gpt.com/ |
 | Track Visits  | https://www.social-visitor.com/  |
 | Optimize SEO  | https://www.seofreetools.eu/  |
