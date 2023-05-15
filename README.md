@@ -5,8 +5,8 @@ Free web tools for digital marketing and affiliates
 
 | Tool |  URL  | Description |
 | --- | --- | --- |
-| SEO Free Tools  | https://www.seofreetools.eu/  | Optimize SEO | 
-| PopLab Tools | https://www.poplab-tools.eu/ | Optimize WebSites|
+| SEO Free Tools  | https://www.seofreetools.eu/  | Improve Your Website's Visibility with Over 50 SEO Tools to Track Issues and Boost Search Engine Rankings. | 
+| PopLab Tools | https://www.poplab-tools.eu/ | The Best Free Online Web Tools You Will Ever Need|
 
 
 ## Content Generation
