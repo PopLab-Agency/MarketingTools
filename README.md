@@ -17,5 +17,5 @@ Free web tools for digital marketing and affiliates
 | SEO Free Tools  | https://www.seofreetools.eu/  | Optimize SEO | 
 | Pop Advertising   | https://popadvertising.eu/  | Affiliates Offers| 
 | Marketeer Best| https://www.marketeer.best/ | Share your Affiliate Links| 
-| Click-Ck Me| https://cli-ck.me/ | Track Your Links | 
+| ClickMe| https://cli-ck.me/ | Track Your Links | 
 | PopMonetizeMe| https://www.popmonetize.me/ | Learn How to Make Money | 
