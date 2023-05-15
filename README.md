@@ -9,7 +9,7 @@ Free web tools for digital marketing and affiliates
 
 
 | Tool |  URL  | Description |
-| --- | --- |
+| --- | --- | --- |
 | PopLab Tools | https://www.poplab-tools.eu/ | Optimize WebSites|
 | Marketing GPT | https://www.marketing-gpt.org/ | Generate Content| 
 | Images GPT  |  https://images-gpt.com/ | Generate Images | 
